@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, HTML, CSS, JS and how technology works
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Discord bot projects
-- 📫 How to reach me : ericmuzyk@icloud.com / EricxPlayzxYT#2468 on Discord
+- 📫 How to reach me : ericmuzyk@icloud.com
 - I am the developer of [Beta](https://beta.ericplayzyt.repl.co), [Codey(still in progress)](https://codeycore.ericplayzyt.repl.co), and [Goobler](https://goobler.imango.com.au).
 
 <!---
