@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP and how technology works
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on website projects
-- 📫 How to reach me : ericmuzyk@icloud.com
+- 📫 How to reach me : justaneric.c@icloud.com
 - I am the developer of [Beta](https://beta.ericplayzyt.repl.co), Frosty Box NFT's(we sell on [opensea](https://opensea.io/FrostyBoxNFTs) (https://frosty-box-nfts.herokuapp.com)), and [Goobler](https://goobler.imango.com.au).
 
 <!---
