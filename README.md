@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WWEMGamer2
+- 👋 Hi, I’m @JustAnEric (formally known as WWEMGamer2)
 - 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP and how technology works
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on website projects
