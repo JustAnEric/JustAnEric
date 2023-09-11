@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me : Discord = justxn3ric
+  
                        YouTube = @justaneric
 - I am the developer of software in general.. Check out some of my repositories and projects!
 
