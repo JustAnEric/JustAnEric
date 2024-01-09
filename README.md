@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustAnEric (formally known as WWEMGamer2)
-- 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP and how technology works
+- 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP, Rust and how technology works
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on website, robot and application projects
 - 📫 How to reach me : Discord = **justxn3ric**, YouTube = **@justaneric**
