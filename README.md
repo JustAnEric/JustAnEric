@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustAnEric (formally known as WWEMGamer2)
+- 👋 Hi, I’m @JustAnEric
 - 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP, Rust and how technology works
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on website, robot and application projects
