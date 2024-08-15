@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![JustAnEric's GitHub stats](https://github-readme-stats.vercel.app/api?username=justaneric)](https://github.com/anuraghazra/github-readme-stats)
-![JustAnEric's GitHub stats](https://github-readme-stats.vercel.app/api?username=justaneric&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justaneric)](https://github.com/anuraghazra/github-readme-stats)
