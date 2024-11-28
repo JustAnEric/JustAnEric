@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 [![JustAnEric's GitHub stats](https://github-readme-stats.vercel.app/api?username=justaneric)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justaneric)](https://github.com/anuraghazra/github-readme-stats)
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,androidstudio,arduino,arch,aws,bash,blender,bootstrap,bun,c,cs,cpp,cloudflare,cmake,debian,discord,bots,discordjs,django,docker,eclipse,electron,dotnet,fastapi,express,firebase,flask,gcp,git,github,gitlab,githubactions,gtk,heroku,idea,java,jquery,kali,kotlin,lua,linux,md,mongodb,mysql,nextjs,nginx,nix,nodejs,npm,nuxtjs,obsidian,opencv,php,pug,py,pytorch,qt,react,raspberrypi,regex,redhat,robloxstudio,sqlite,supabase,sklearn,selenium,tensorflow,ts,ubuntu)](https://skillicons.dev)
