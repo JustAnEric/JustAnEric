@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @JustAnEric
 - 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP and how technology works
+- 🔞 I'm 14-15 years old
+- 💾 I know Linux commands, the Docker Standalone ecosystem
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on website, robot and application projects
 - 📫 How to reach me : Discord = **justan3ric**, YouTube = **@justaneric**
-- I am the developer of software in general.. Check out some of my repositories and projects!
+- I am the developer of software in general. Check out some of my repositories and projects!
 
 Need free hosting for development or production? :eyes: Look over here: [HostServersEasy/HostBase](https://github.com/HostServersEasy) | [https://hostbase.me](https://hostbase.me)
 
