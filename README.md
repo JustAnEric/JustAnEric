@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustAnEric
 - 👀 I’m interested in Python, HTML, CSS, JS, NodeJS, PHP and how technology works
-- 🔞 I'm 15 years old, registered on GitHub Education
+- 🔞 I'm 16 years old, registered on GitHub Education
 - 💾 I know Linux commands, the Docker Standalone ecosystem
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on website, robot and application projects
