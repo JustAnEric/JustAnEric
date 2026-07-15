@@ -6,9 +6,6 @@
 - 💞️ I’m looking to collaborate on website, robot and application projects
 - 📫 How to reach me : Discord = **justan3ric**, YouTube = **@justaneric**
 - I am the developer of software in general. Check out some of my repositories and projects!
-
-Need free hosting for development or production? :eyes: Look over here: [HostServersEasy/HostBase](https://github.com/HostServersEasy) | [https://hostbase.me](https://hostbase.me)
-
 <!---
 WWEMGamer2/WWEMGamer2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
